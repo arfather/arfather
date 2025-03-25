@@ -5,13 +5,13 @@ A Full-Stack Developer
 ![Profile Views](https://komarev.com/ghpvc/?username=arfather&style=flat-square&color=blue)
 
 ## 📫 How to reach me:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [arfather@gmail.com](mailto:arfather26@gmail.com)
+- 🌐 Website: - ##[yourwebsite.com](https://yourwebsite.com)
 
 ## 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arfin-mustofa)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arfin.musthofa)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/arfather26)
 
 ## 🛠 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,6 +26,5 @@ A Full-Stack Developer
 ## 📊 Most Used Repository Language:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfather&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arfather&theme=tokyonight&hide_border=true)
 
 
