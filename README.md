@@ -2,7 +2,7 @@
 
 A Full-Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arfather&style=flat-square&color=blue)
 
 ## 📫 How to reach me:
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
@@ -21,7 +21,7 @@ A Full-Stack Developer
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfather&show_icons=true&theme=tokyonight)
 
 ## 📊 Most Used Repository Language:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfather&layout=compact&theme=tokyonight)
