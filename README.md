@@ -68,16 +68,6 @@ Hey there! I'm **Arfin Mustofa**, a Full-Stack Developer passionate about crafti
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=arfather&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
