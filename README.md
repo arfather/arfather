@@ -59,6 +59,7 @@ Hey there! I'm **Arfin Mustofa**, a Full-Stack Developer passionate about crafti
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=arfather&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=arfather&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arfather&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%" />
 
