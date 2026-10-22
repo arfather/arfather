@@ -12,6 +12,7 @@
 ### Full-Stack Developer · Building things for the web
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arfather&style=flat-square&color=6366f1&label=profile+views)](https://github.com/arfather)
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 [![Years on GitHub](https://badges.pufler.dev/years/arfather?style=flat-square&color=6366f1)](https://github.com/arfather)
 
 </div>
@@ -69,13 +70,13 @@ Hey there! I'm **Arfin Mustofa**, a Full-Stack Developer passionate about crafti
 
 ---
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arfather&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff)
 
-</div>
+</div> -->
 
 ---
 
