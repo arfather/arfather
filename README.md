@@ -11,7 +11,6 @@
 
 ### Full-Stack Developer · Building things for the web
 
-[![Profile Views](https://komarev.com/ghpvc/?username=arfather&style=flat-square&color=6366f1&label=profile+views)](https://github.com/arfather)
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 [![Years on GitHub](https://badges.pufler.dev/years/arfather?style=flat-square&color=6366f1)](https://github.com/arfather)
 
